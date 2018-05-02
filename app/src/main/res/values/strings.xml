@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Đặt vé online</string>
+    <string name="link">Gio tau | Khuyen mai | Quy dinh</string>
+    <string name="tong_cong_ty">Tong cong ty duong sat viet nam</string>
+    <string name="thong_tin_lien_he">
+        So 118 \n
+        <b>01233555</b> \n
+        <i>Hello world</i>
+    </string>
+
+    <string-array name="prefecture_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+</resources>
